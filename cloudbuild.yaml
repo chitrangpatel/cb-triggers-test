@@ -2,4 +2,5 @@ steps:
   - name: ubuntu
     args:
       - ls
+      - -lh
 logs_bucket: ceveloper-connect-bugbash 
